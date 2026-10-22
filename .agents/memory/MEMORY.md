@@ -1,0 +1,1 @@
+- [Replit system dependencies](replit-system-dependencies.md) — preserve the generated `[nix] packages` stanza when replacing `.replit`.
